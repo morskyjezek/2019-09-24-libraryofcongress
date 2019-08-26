@@ -1,3 +1,5 @@
+Website: https://morskyjezek.github.io/2019-09-24-libraryofcongress/
+
 # workshop-template
 
 This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site]'s)
